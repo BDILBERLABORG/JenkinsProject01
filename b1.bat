@@ -1,2 +1,2 @@
 d:
-md d:\temp\test001
+md d:\temp\b1
